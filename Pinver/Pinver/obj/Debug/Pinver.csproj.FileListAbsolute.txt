@@ -1,0 +1,29 @@
+c:\users\ata\documents\visual studio 2015\Projects\Pinver\Pinver\bin\Debug\Pinver.exe.config
+c:\users\ata\documents\visual studio 2015\Projects\Pinver\Pinver\bin\Debug\Pinver.exe
+c:\users\ata\documents\visual studio 2015\Projects\Pinver\Pinver\bin\Debug\Pinver.pdb
+c:\users\ata\documents\visual studio 2015\Projects\Pinver\Pinver\obj\Debug\Pinver.csprojResolveAssemblyReference.cache
+c:\users\ata\documents\visual studio 2015\Projects\Pinver\Pinver\obj\Debug\MainWindow.g.cs
+c:\users\ata\documents\visual studio 2015\Projects\Pinver\Pinver\obj\Debug\App.g.cs
+c:\users\ata\documents\visual studio 2015\Projects\Pinver\Pinver\obj\Debug\Pinver_MarkupCompile.cache
+c:\users\ata\documents\visual studio 2015\Projects\Pinver\Pinver\obj\Debug\Pinver_MarkupCompile.lref
+c:\users\ata\documents\visual studio 2015\Projects\Pinver\Pinver\obj\Debug\MainWindow.baml
+c:\users\ata\documents\visual studio 2015\Projects\Pinver\Pinver\obj\Debug\Pinver.g.resources
+c:\users\ata\documents\visual studio 2015\Projects\Pinver\Pinver\obj\Debug\Pinver.Properties.Resources.resources
+c:\users\ata\documents\visual studio 2015\Projects\Pinver\Pinver\obj\Debug\Pinver.csproj.GenerateResource.Cache
+c:\users\ata\documents\visual studio 2015\Projects\Pinver\Pinver\obj\Debug\Pinver.exe
+c:\users\ata\documents\visual studio 2015\Projects\Pinver\Pinver\obj\Debug\Pinver.pdb
+C:\Users\o_guz\Desktop\Pinver\Pinver\bin\Debug\Pinver.exe.config
+C:\Users\o_guz\Desktop\Pinver\Pinver\bin\Debug\Pinver.exe
+C:\Users\o_guz\Desktop\Pinver\Pinver\bin\Debug\Pinver.pdb
+C:\Users\o_guz\Desktop\Pinver\Pinver\obj\Debug\Pinver.csprojAssemblyReference.cache
+C:\Users\o_guz\Desktop\Pinver\Pinver\obj\Debug\MainWindow.g.cs
+C:\Users\o_guz\Desktop\Pinver\Pinver\obj\Debug\App.g.cs
+C:\Users\o_guz\Desktop\Pinver\Pinver\obj\Debug\Pinver_MarkupCompile.cache
+C:\Users\o_guz\Desktop\Pinver\Pinver\obj\Debug\Pinver_MarkupCompile.lref
+C:\Users\o_guz\Desktop\Pinver\Pinver\obj\Debug\MainWindow.baml
+C:\Users\o_guz\Desktop\Pinver\Pinver\obj\Debug\Pinver.g.resources
+C:\Users\o_guz\Desktop\Pinver\Pinver\obj\Debug\Pinver.Properties.Resources.resources
+C:\Users\o_guz\Desktop\Pinver\Pinver\obj\Debug\Pinver.csproj.GenerateResource.cache
+C:\Users\o_guz\Desktop\Pinver\Pinver\obj\Debug\Pinver.csproj.CoreCompileInputs.cache
+C:\Users\o_guz\Desktop\Pinver\Pinver\obj\Debug\Pinver.exe
+C:\Users\o_guz\Desktop\Pinver\Pinver\obj\Debug\Pinver.pdb
