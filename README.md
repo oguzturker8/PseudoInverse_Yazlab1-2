@@ -1,3 +1,3 @@
 # Yazlab2
-Pseudoinverse
+C# Pseudoinverse Moore-Penrose
 Credit : https://github.com/atagulalan 6 https://github.com/oguzturker8
